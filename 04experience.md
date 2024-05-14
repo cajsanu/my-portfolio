@@ -13,9 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Work experience</h2>
+			<h1>Work experience</h1>
 		</header>
-		<blockquote>Nothing happens, nothing happens.</blockquote>
+		<div class="6u$ 12u$(medium)">
+		</div>	
 	</div>
 </section>
 
@@ -58,7 +59,7 @@ nav-menu: true
 				</header>
 				<p>Summer job in a wondefull, small pet park for two summers. The job included customer service, taking care of the animals and guiding customers around the premises.</p>
 				<ul class="actions">
-					<li><a href="https://www.lemmikkipuisto.fi/" class="button">Check out the amazing pet park</a></li>
+					<li><a href="https://www.lemmikkipuisto.fi/" class="button">Check out the lovely pet park</a></li>
 				</ul>
 			</div>
 		</div>

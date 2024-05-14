@@ -1,8 +1,8 @@
 # site settings
-title: CN
-subtitle: 
+title: C 
+subtitle: N
 email: cajsa.nummelin@gmail.com
-description: Welcome to my wesite and portfolio
+description: Welcome to my website and portfolio
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

@@ -5,8 +5,15 @@ image: assets/images/bou.jpeg
 nav-menu: true
 ---
 
-<div class="box">
- 
+<div style="padding: 4em">
+<div style="padding-bottom: 4em">
+    <i>Below are listed the courses that I have completed, with certificates for the ones that give out such. As of now most of the courses have been completed between spring 2023 and summer 2024.
+    </i>
+    <br>
+    <br>
+    <i>Click 🏅 to see the certificates</i>
+</div>
+<section>
 <div class="row">
 	<div class="6u 12u$(small)">
 
@@ -25,8 +32,6 @@ nav-menu: true
             <li><b><a href="https://fullstackopen.com/en/part13">Full Stack web development: Relational Databases</a></b> <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/951db8f7c7e2d4d0f79db99fda3cd44c">🏅</a></li>
 
     	</ul>
-
-        <p><i>Click 🏅 for certificate</i></p>
        
     </div>
     <div class="6u$ 12u$(small)">
@@ -42,8 +47,5 @@ nav-menu: true
             <li><b><a href="https://course.elementsofai.com/">Elements of AI</a></b> </li>
             <li><b><a href="https://courses.minnalearn.com/en/courses/startingup/">Starting up</a></b> </li>
     	</ul>
-
     </div>
-
-</div>
 </div>
