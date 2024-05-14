@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Model
+image:
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Courses</h1>
 		</header>
 
 <!-- Content -->

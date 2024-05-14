@@ -1,11 +1,22 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: "Hi, my name is Cajsa"
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+<div>
+    <p><b>Languages</b> <a class="button special small">Javascript</a> <a class="button special small">Typescript</a> <a class="button special small">Pyhton</a> <a class="button special small">R</a></p>
+</div>
+<div>
+    <p><b>Backend</b> <a class="button special small">NodeJs</a> <a class="button special small">Express</a> <a class="button special small">Jest</a> <a class="button special small">Cypress</a></p>
+</div>
+<div>
+    <p><b>Frontend</b> <a class="button special small">React</a> <a class="button special small">Redux</a> <a class="button special small">CSS</a> <a class="button special small">HTML</a> <a class="button special small">TanStack Query</a></p>
+</div>
+<div>
+    <p><b>Other</b> <a class="button special small">PostgresQL</a> <a class="button special small">MongoDB</a> <a class="button special small">Docker</a> <a class="button special small">GraphQL</a> <a class="button special small">Vite</a> <a class="button small">Kubernetes</a></p>
+</div>
