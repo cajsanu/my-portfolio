@@ -30,7 +30,7 @@ nav-menu: true
 					<h4>2023-2023</h4>
 					<i>Helsingin kaupunki</i>
 				</header>
-				<p>Worked as a social worker in disability service for under 18 year olds for the City of Helsinki. The position required excellent problem solving skills and ability to work both independently and as a team in high-stress situations. The job revolved a lot around writing detailed reports and legal decisions based on current laws for families in need of support. I accuired a lot of valuable experience when it comes to teamwork and understandg of both clients, collegues and other professionals in an intricate system where the ability to take initiaitve and continuously learn more is a must.</p>
+				<p>Worked as a social worker in disability service for under 18 year olds for the City of Helsinki. The position required excellent problem solving skills and ability to work both independently and as a team in high-stress situations. The job revolved a lot around writing detailed reports and legal decisions based on current laws for families in need of support. I accuired a lot of valuable experience when it comes to teamwork and understanding of both clients, collegues and other professionals in an intricate system where the ability to take initiaitve and continuously learn more is a must.</p>
 			</div>
 		</div>
 	</section>
@@ -42,7 +42,7 @@ nav-menu: true
 					<h4>2022-2023</h4>
 					<i>Me osalliset ry - Vi delaktiga rf</i>
 				</header>
-				<p>After one year of working as a activities coordinator I got promoted to team lead and was responsible for mentoring new team members and reporting back to the board of directors and participate in the board meetings. I took over most of the efforts related to development and growth of the organisation and participated in marketing and website development. My tasks also included taking care of the financial matters: internal budgeting, applying for grants and reporting back to fund providers. I was also responsible together with the team for organising and executing events for tens of participants at a time while continuously trying to grow the organisation. </p>
+				<p>After one year of working as a activities coordinator I got promoted to team lead and was responsible for mentoring new team members and reporting back to the board of directors and participate in the board meetings. I took over most of the efforts related to development and growth of the organisation and participated in marketing and website development. My tasks also included taking care of the financial matters: internal budgeting, applying for grants and reporting back to fund providers. I was also responsible, together with the team, for organising and executing events for tens of participants at a time while continuously trying to grow the organisation. </p>
 				<h4>Activities coordinator</h4>
 				<h5>2021-2022</h5>
 				<p>Working as activities coordinator; planning, organising and executing events for young people with special needs. Communicating with third parties and actively trying to develop and grow the organisation. Website development and marketing. </p>
@@ -57,9 +57,9 @@ nav-menu: true
 					<h4>Seasonal work during 2021 and 2022</h4>
 					<i>Lomamäen lemmikkipuisto</i>
 				</header>
-				<p>Summer job in a wondefull, small pet park for two summers. The job included customer service, taking care of the animals and guiding customers around the premises.</p>
+				<p>Summer job in a wonderfull, small pet park for two summers. The job included customer service, taking care of the animals, guiding visitors around the park and introducing them to the different animals.</p>
 				<ul class="actions">
-					<li><a href="https://www.lemmikkipuisto.fi/" class="button">Check out the lovely pet park</a></li>
+					<li><a href="https://www.lemmikkipuisto.fi/" class="button" target="_blank">Check out the lovely pet park</a></li>
 				</ul>
 			</div>
 		</div>
