@@ -44,7 +44,7 @@ nav-menu: true
             <li><b><a href="https://programming-23.mooc.fi/" target="_blank">Introduction to programming</a></b> </li>
             <li><b><a href="https://programming-23.mooc.fi/" target="_blank">Advanced course in programming</a></b> </li>
             <li><b><a href="https://course.elementsofai.com/" target="_blank">Elements of AI</a></b> </li>
-            <li><b><a href="https://courses.minnalearn.com/en/courses/startingup/" target="_blank">Starting up</a></b> </li>
+            <li><b><a href="https://courses.minnalearn.com/en/courses/startingup/" target="_blank">Starting up</a></b> <a href="https://courses.minnalearn.com/certificate/en/startingup/8172d041-a6bd-414c-84a8-e0cdfffa171c" target="_blank">🏅</a></li>
     	</ul>
     </div>
 </div>
