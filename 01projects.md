@@ -31,8 +31,22 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>Robot vs. Rocks</h3>
+					<i><a href="https://github.com/cajsanu/pygame" target="_blank"><img class="image main" src="assets/images/pygame.png" alt="robotVsRocks" /></a></i>
+				</header>
+				<p>The game is made with pygame and the aim is to collect as many falling rocks as possible. The game ends if you let any of the rocks toutch the bottom of the screen.</p>
+			</div>
+		</div>
+	</section>
+</section>
+<br/>
+<section id="two" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>Blogs</h3>
-					<i><a href="https://github.com/cajsanu/blogs-postgres" target="_blank"><img class="image main" src="assets/images/houses.jpeg" alt="bookShelf" /></a></i>
+					<i><a href="https://github.com/cajsanu/blogs-postgres" target="_blank"><img class="image main" src="assets/images/houses.jpeg" alt="blogs" /></a></i>
 				</header>
 				<p>This is the backend for a blog application built using Node.js, Express, PostgreSQL with Sequelize for ORM, Umzug for migrations, and JSON Web Token (JWT) for authentication. The backend provides API endpoints to manage users, blogs, and user interactions like logging in/out and maintaining reading lists.</p>
 			</div>
@@ -46,12 +60,24 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Flight diary</h3>
-					<i><a href="https://github.com/cajsanu/flightDiary-front" target="_blank"><img class="image main" src="assets/images/plane.jpg" alt="bookShelf" /></a></i>
+					<i><a href="https://github.com/cajsanu/flightDiary-front" target="_blank"><img class="image main" src="assets/images/plane.jpg" alt="flightDiary" /></a></i>
 				</header>
 				<p>Simple frontend project using TypeScript. Users can fetch and create diary entries for a personal fligth diary.</p>
 			</div>
 		</div>
 	</section>
 </section>
-
-
+<br/>
+<section id="two" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Digital and analog clock</h3>
+					<i><a href="https://github.com/cajsanu/clock" target="_blank"><img class="image main" src="assets/images/clock.png" alt="clock" /></a></i>
+				</header>
+				<p></p>
+			</div>
+		</div>
+	</section>
+</section>
