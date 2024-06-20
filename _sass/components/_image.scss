@@ -54,7 +54,12 @@ img {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
 			width: 50%;
-
+			border-radius:5px;
+    		border:2px solid transparent;
+			&:hover {
+				border-radius:5px;
+				border:2px solid rgb(57, 197, 235);
+			}
 			img {
 				width: 50%;
 			}
