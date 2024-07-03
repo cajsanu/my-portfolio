@@ -41,6 +41,8 @@ nav-menu: true
             <li><b><a href="https://www.codecademy.com/learn/learn-git" target="_blank">Learn Git and GitHub</a></b> </li>
             <li><b><a href="https://tikape.mooc.fi/kevat-2024/" target="_blank">Basics of databases</a></b> </li>
     		<li><b><a href="https://devopswithdocker.com/" target="_blank">DevOps with Docker</a></b> </li>
+            <li><b><a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank">Learn JavaScript#</a></b> </li>
+            <li><b><a href="https://www.codecademy.com/learn/learn-c-sharp" target="_blank">Learn C#</a></b> </li>
             <li><b><a href="https://programming-23.mooc.fi/" target="_blank">Introduction to programming</a></b> </li>
             <li><b><a href="https://programming-23.mooc.fi/" target="_blank">Advanced course in programming</a></b> </li>
             <li><b><a href="https://course.elementsofai.com/" target="_blank">Elements of AI</a></b> </li>

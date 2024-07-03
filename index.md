@@ -9,7 +9,7 @@ show_tile: false
 ---
 
 <div>
-    <p><b>Languages</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">Javascript</a> <a class="button special small">Typescript</a> <a class="button special small">Python</a> <a class="button special small">R</a></p>
+    <p><b>Languages</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">Javascript</a> <a class="button special small">Typescript</a> <a class="button special small">Python</a> <a class="button special small">R</a> <a class="button small">C#</a></p>
 </div>
 <div>
     <p><b>Backend</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">NodeJs</a> <a class="button special small">Express</a> <a class="button special small">PostgresQL</a> <a class="button special small">MongoDB</a> <a class="button special small">Sequelize</a> <a class="button special small">Mongoose</a></p>
