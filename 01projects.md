@@ -16,6 +16,21 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>DogGo</h3>
+				</header>
+				<i><a href="https://github.com/cajsanu/findFriends" target="_blank"><img class="image main" src="assets/images/dogGo.png" alt="DogGo" /></a></i>
+				<h5 style="text-decoration: underline;"><a href="https://github.com/cajsanu/findFriends">Code</a></h5>
+				<p>DogGo is a chat application for connecting dog owners who live in the same area to meet up and go for a walk together. The backend code is written using C# and ASP.NET core while the frontend is done with React and Typescrip. The messaging functionality is implememnted using SignalR. </p>
+			</div>
+		</div>
+	</section>
+</section>
+<br/>
+<section id="two" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>BookShelf</h3>
 				</header>
 				<i><a href="https://github.com/cajsanu/book-app" target="_blank"><img class="image main" src="assets/images/BookShelf.png" alt="bookShelf" /></a></i>

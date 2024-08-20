@@ -9,10 +9,10 @@ show_tile: false
 ---
 
 <div>
-    <p><b>Languages</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">Javascript</a> <a class="button special small">Typescript</a> <a class="button special small">Python</a> <a class="button special small">R</a> <a class="button small">C#</a></p>
+    <p><b>Languages</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">Javascript</a> <a class="button special small">Typescript</a> <a class="button special small">C#</a> <a class="button special small">Python</a> <a class="button special small">R</a> </p>
 </div>
 <div>
-    <p><b>Backend</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">NodeJs</a> <a class="button special small">Express</a> <a class="button special small">PostgresQL</a> <a class="button special small">MongoDB</a> <a class="button special small">Sequelize</a> <a class="button special small">Mongoose</a></p>
+    <p><b>Backend</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">NodeJs</a> <a class="button special small">Express</a> <a class="button special small">PostgresQL</a> <a class="button special small">MongoDB</a> <a class="button special small">.NET</a> <a class="button special small">Sequelize</a> <a class="button special small">Mongoose</a> <a class="button special small">ASP.NET</a></p>
 </div>
 <div>
     <p><b>Frontend</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button special small">React</a> <a class="button special small">Redux</a> <a class="button special small">CSS</a> <a class="button special small">Sass</a> <a class="button special small">HTML</a> <a class="button special small">TanStack Query</a> <a class="button special small">Tailwind</a></p>
