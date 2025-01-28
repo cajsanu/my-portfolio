@@ -7,9 +7,9 @@ nav-menu: true
 ---
 
 
-<p><span class="image left"><img src="assets/images/IMG_3549.jpg" alt="" /></span>My name is Cajsa, I'm 25 and I currently live in Espoo, Finland. Right now I'm on a self-study journey to become a full-stack software engineer. What started as a harmless hobby has transformed into a growing interest and passion for software development.</p>
+<p><span class="image left"><img src="assets/images/IMG_3549.jpg" alt="" /></span>My name is Cajsa. I'm an aspiring full stack software engineer with previous experience as a team lead and project coordinator in a non-for-profit organisation. I'm familiar with working in an Agile environment and problem sloving under preassure. My passion for software development started in 2023 after discovering the endless possibilities and ... of programming.</p>
 
-<p>As of now, I'm most confident in JavaScript, TypeScript, C# and Python. I have completed various projects using the React ecosystem, Node.js, Express, .NET, GraphQL, PostgreSQL, MongoDB, Cypress, SignalR and more. On the frontend, I have implemented complex state management with Redux and React Query and for styling I have used Sass, CSS and Tailwind. Additionally, I'm able to skillfully dockerize an application using Docker and docker-compose and currently I'm learning about Kubernetes.</p>
+<p>As of now, I'm most confident in JavaScript, TypeScript, C# and Python. I have completed various projects using the React ecosystem, Node.js, Express, .NET, ASP.NET Core, GraphQL, PostgreSQL, MongoDB, Microsoft Identity, SignalR and more. On the frontend, I have implemented complex state management with Redux and React Query and for styling I have used Sass, CSS and Tailwind. Additionally, I'm able to skillfully dockerize an application using Docker and docker-compose and currently I'm learning about Kubernetes.</p>
 
 <p><span class="image right"><img src="assets/images/B.jpeg" alt="" /></span>I’m currently looking for a position as a junior frontend, backend or full stack software developer and I’m happy to take on any challenge you can throw my way. The more I can learn and develop, the better. I'm incredibly motivated and happy, because I think I've finally found the right career path for me and I'm excited to embark on the journey.</p>
 
@@ -19,3 +19,4 @@ nav-menu: true
 
 
 
+ 
